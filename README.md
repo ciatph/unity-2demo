@@ -9,7 +9,7 @@ Practice project for Unity 2D Platformer games from [Brackeys](http://brackeys.c
 
 ## Demo
 
-A webgl demo can be played [here](https://ttpdemo-game.firebaseapp.com/).
+A desktop webgl demo can be played [here](https://ttpdemo-game.firebaseapp.com/).
 
 **Date created**: 20180731<br>
 **Last modified:** 20180801
