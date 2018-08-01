@@ -5,7 +5,7 @@ Practice project for Unity 2D Platformer games from [Brackeys](http://brackeys.c
 
 1. Clone this repository into your PC.
 
-2. Open the project with Unity. Unity version 5.4.3f was used for this project.
+2. Open and edit or run the project with Unity. Unity version [5.4.3f](https://unity3d.com/get-unity/download/archive) was used for this project.
 
 ## Demo
 
