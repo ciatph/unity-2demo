@@ -61,7 +61,7 @@ public class Tiling : MonoBehaviour {
 		// instantiate our new buddy and store him in a variable
 		Transform newBuddy = Instantiate(myTransform, newPosition, myTransform.rotation) as Transform;
 		
-		// if not tileable let's reverse the x size of out object to get rid of ugly seams
+		// if not tileable let's reverse the x size of out object to get rid of ugly seams (graphically
 		if(reverseScale == true){
 			newBuddy.localScale = new Vector3(newBuddy.localScale.x *- 1, newBuddy.localScale.y, newBuddy.localScale.z);
 		}
